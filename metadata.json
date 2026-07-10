@@ -1,0 +1,6 @@
+{
+  "name": "EstateOS",
+  "description": "Enterprise AI-powered Real Estate Operating System for property analysis, knowledge centralization, and agent orchestration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
